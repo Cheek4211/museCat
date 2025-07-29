@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b5da9c0706a53464da8b3e2f9668ed57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - upNoteAppear: {instanceID: 0}
+  - downNoteAppear: {instanceID: 0}
+  - goNote: {fileID: 8044136546235559676, guid: a23ee5f897349e14f93878f911ffc657, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
